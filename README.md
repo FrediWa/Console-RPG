@@ -1,4 +1,6 @@
-# Uppgift 1
+This is the first project of the course "Datastrukturer och algoritmer" (Datastructures and algorithms).
+
+The reason for the 1 "initial commit" commit is because the project was built on a private repo issued by our lecturer. 
 
 ## Förberedelser
 
