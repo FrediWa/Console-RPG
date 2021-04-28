@@ -1,4 +1,10 @@
-This is the first project of the course "Datastrukturer och algoritmer" (Datastructures and algorithms).
+This is the first project of the course "Datastrukturer och algoritmer" (Datastructures and algorithms). It's a very simple console adventure RPG game. The player can go on an adventure to fight monster. They will then earn XP and money based on the monsters level. When the player wants to quit, he can save the game using a serializable game object.
+Features:
+- Level up system with stats that affect combat
+- Randomized enemies with level threshold that scales with the player
+- Inventory
+- Currency and a shop
+- Saving and loading
 
 The reason for the 1 "initial commit" commit is because the project was built on a private repo issued by our lecturer. 
 
