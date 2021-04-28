@@ -1,4 +1,4 @@
-This is the first project of the course "Datastrukturer och algoritmer" (Datastructures and algorithms). It's a very simple console adventure RPG game. The player can go on an adventure to fight monster. They will then earn XP and money based on the monsters level. When the player wants to quit, he can save the game using a serializable game object.
+This is the first project of the course "Datastrukturer och algoritmer" (Datastructures and algorithms). It's a very simple console adventure RPG game. The player can go on an adventure to fight monster. They will then earn XP and money based on the monsters level. When the player wants to quit, he can save the game using a serializable game object. The project was a solo project and the purpose was to learn and write neat Object Oriented code.
 
 Features:
 - Level up system with stats that affect combat
